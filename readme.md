@@ -1,3 +1,5 @@
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArchyMoe%2FNastery.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FArchyMoe%2FNastery?ref=badge_shield)
+
 If you have any idea, you can PR with this [template](https://github.com/UserUnknownX/nastery/blob/master/files/template.html).
 
 And it's ok to change the webpage according to the demand.
@@ -7,3 +9,7 @@ If you have any problem, chat with me [here(need your e-mail to get your reply)]
 And you can also get some hints [here](https://nasterywiki.wordpress.com), or edit it!
 
 Good luck!
+
+
+## License
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FArchyMoe%2FNastery.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FArchyMoe%2FNastery?ref=badge_large)
